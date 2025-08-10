@@ -1,2 +1,1 @@
-# CampaignManager
-Professional CampaignManager framework with CampaignManager-optimized campaignmanager-optimization and enterprise enterprise-grade capabilities
+.
